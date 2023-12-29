@@ -89,7 +89,7 @@ body {
   text-decoration: none;
 }
 
-.menu__link_active {
+.menu__link:hover {
   color: var(--accent-color);
 }
 
